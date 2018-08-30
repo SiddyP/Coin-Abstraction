@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pixel
+comment1.params=red\ green\ blue
+comment1.target=Pixel(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRed()
+comment3.params=
+comment3.target=int\ getGreen()
+comment4.params=
+comment4.target=int\ getBlue()
+comment5.params=redAmount
+comment5.target=void\ setRed(int)
+comment6.params=greenAmount
+comment6.target=void\ setGreen(int)
+comment7.params=blueAmount
+comment7.target=void\ setBlue(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
